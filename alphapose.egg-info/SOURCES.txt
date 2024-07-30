@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+alphapose.egg-info/PKG-INFO
+alphapose.egg-info/SOURCES.txt
+alphapose.egg-info/dependency_links.txt
+alphapose.egg-info/not-zip-safe
+alphapose.egg-info/requires.txt
+alphapose.egg-info/top_level.txt
